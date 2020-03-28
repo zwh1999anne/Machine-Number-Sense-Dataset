@@ -1,0 +1,135 @@
+CNN_MLP
+
+Evaluating combination_holistic
+6000
+Test Avg Acc: 0.2525
+
+Evaluating combination_analytical
+4000
+Test Avg Acc: 0.1965
+
+Evaluating permutation_holistic
+10000
+Test Avg Acc: 0.2253
+
+Evaluating permutation_analytical
+18000
+Test Avg Acc: 0.2007
+
+Evaluating segmentation_holistic
+8000
+Test Avg Acc: 0.2444
+
+Evaluating segmentation_analytical
+10000
+Test Avg Acc: 0.2325
+
+2: 0.29975
+3: 0.2365
+4: 0.22125
+6: 0.215583333333
+8: 0.2139
+
+Mean: 22.71
+
+CNN_LSTM
+
+Evaluating combination_holistic
+6000
+Test Avg Acc: 0.2457
+
+Evaluating combination_analytical
+4000
+Test Avg Acc: 0.2110
+
+Evaluating permutation_holistic
+10000
+Test Avg Acc: 0.2221
+
+Evaluating permutation_analytical
+18000
+Test Avg Acc: 0.2012
+
+Evaluating segmentation_holistic
+8000
+Test Avg Acc: 0.2336
+
+Evaluating segmentation_analytical
+10000
+Test Avg Acc: 0.2383
+
+2: 0.27275
+3: 0.236
+4: 0.224375
+6: 0.215333333333
+8: 0.215666666667
+
+Mean: 22.16
+
+Relational Network
+
+Evaluating combination_holistic
+6000
+Test Avg Acc: 0.2705
+
+Evaluating combination_analytical
+4000
+Test Avg Acc: 0.2047
+
+Evaluating permutation_holistic
+10000
+Test Avg Acc: 0.2293
+
+Evaluating permutation_analytical
+18000
+Test Avg Acc: 0.2027
+
+Evaluating segmentation_holistic
+8000
+Test Avg Acc: 0.2581
+
+Evaluating segmentation_analytical
+10000
+Test Avg Acc: 0.2364
+
+2: 0.3405
+3: 0.241
+4: 0.231
+6: 0.218416666667
+8: 0.2155
+
+Mean 22.96
+
+Resnet18_MLP
+
+Evaluating combination_holistic
+6000
+Test Avg Acc: 0.2790
+
+Evaluating combination_analytical
+4000
+Test Avg Acc: 0.2422
+
+Evaluating permutation_holistic
+10000
+Test Avg Acc: 0.2342
+
+Evaluating permutation_analytical
+18000
+Test Avg Acc: 0.2373
+
+Evaluating segmentation_holistic
+8000
+Test Avg Acc: 0.2661
+
+Evaluating segmentation_analytical
+10000
+Test Avg Acc: 0.2778
+
+2: 0.35625
+3: 0.2585
+4: 0.263125
+6: 0.247083333333
+8: 0.238366666667
+
+Mean: 25.29
