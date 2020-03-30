@@ -32,6 +32,9 @@ and an Or-node denotes an alternative decomposition.
     
 
 ## Benchmarks and Experiments  
+We benchmark the proposed MNS dataset using four predominant neural network models and two search-based algorithms. Additionally, human performance on the dataset has also been collected. For more details, please refer to our paper.  
 
+| Methods | Mean Acc | Combination-Holistic | Combination-Analytic | Composition-Holistic | Composition-Analytic | Partition-Holistic | Partition-Analytic |
+|---------|----------|----------------------|----------------------|----------------------|----------------------|---------------------|--------------------|
 
 ## Usage
