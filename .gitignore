@@ -124,3 +124,12 @@ dmypy.json
 .pyre/
 
 /experiments
+
+.DS_Store
+
+.idea/
+*.iml
+*.classes
+*.jar
+*.war
+*.ear
