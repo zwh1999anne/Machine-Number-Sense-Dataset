@@ -257,7 +257,7 @@ def main():
                                   help="device index for GPU; if GPU unavailable, leave it as default")
     train_arg_parser.add_argument("--num-workers", type=int, default=16,
                                   help="number of workers for data loader")
-    train_arg_parser.add_argument("--dataset", type=str, default="/home/chizhang/Datasets/IQMath/",
+    train_arg_parser.add_argument("--dataset", type=str, default="../Datasets/IQMath/",
                                   help="dataset path")
     train_arg_parser.add_argument("--checkpoint-dir", type=str, default="./experiments/ckpt/",
                                   help="checkpoint save path")
