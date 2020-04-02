@@ -139,7 +139,7 @@ To generate a dataset, run `main.py` with adjustable sample amount.
 Code to benchmark the dataset lives in `src/model` folder. 
 
 Run the following command to check performance. 
-```python
+```
 python main.py train --model-name <model>
 ```
 
