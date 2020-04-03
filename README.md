@@ -4,6 +4,7 @@ The repo contains code for our AAAI-2020 paper
 [Machine Number Sense: A Dataset of Visual Arithmetic Problems for Abstract and Relational Reasoning](./assets/AAAI20_NumberSense.pdf)  
 Wenhe Zhang, Chi Zhang, Yixin Zhu, Song-Chun Zhu  
 _The 34th AAAI Conferences on Artificial Intelligence_, Februrary 7-12, New York (Oral Presentation).  
+[webpage](https://sites.google.com/view/number-sense/home) | [dataset](https://drive.google.com/file/d/17KuL8KOIDAeRL-lD418oiDEm8bE6TEFb/view)
 
 ![AOG](./assets/aog.png)
 
